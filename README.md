@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adarsh Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src=https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="coding" width="400" src= https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif ">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-create&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-create" /> </p>
+<p align="left"> <img src="  https://komarev.com/ghpvc/?username=adarsh-create&label=Profile%20views&color=0e75b6&style=flat " alt="adarsh-create" /> </p>
 
 - ⚡ Fun fact **I AM FUNNY**
 
