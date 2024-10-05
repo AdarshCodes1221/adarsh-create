@@ -15,7 +15,7 @@
 - **Data Structures**: Working on C++ programs involving **linked lists** and improving data management systems.
 
 ### 🛠 Technologies & Tools
-- Frontend: **React**, **HTML5**, **CSS3**
+- Frontend: **React**, **HTML5**, **CSS3*
 - Backend: **Python**, **Node.js**
 - Programming Languages: **C++, Python, C**
 - Database: **MySQL**, **MongoDB**
