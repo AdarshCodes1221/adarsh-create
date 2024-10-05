@@ -22,5 +22,9 @@
 - Version Control: **Git**, **GitHub**
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats] 
+
+![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshCodes1221&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshCodes1221&layout=compact&theme=radical)
+
 
