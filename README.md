@@ -1,21 +1,26 @@
-<h1 align="center">Hi 👋, I'm Adarsh Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+👋 Hi, I'm Adarsh Jha!
 
-<img align="right" alt="coding" width="400" src= https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif ">
+### 🚀 About Me
+- 🎓 I'm a **2nd-year Computer Science Engineering student** with a passion for technology and web development.
+- 💻 I specialize in **React**, **C++**, and **Python**, and I'm always exploring new technologies and frameworks.
+- 🌐 I'm currently working on several web development projects, including a **real estate website** and a **hostel booking system**.
 
-<p align="left"> <img src="  https://komarev.com/ghpvc/?username=adarsh-create&label=Profile%20views&color=0e75b6&style=flat " alt="adarsh-create" /> </p>
+### 👨‍💻 Current Projects
+- **Real Estate Website**: A responsive platform to showcase rental properties with a custom slider built using **React**.
+- **Hostel Booking Website**: A React-based project aimed at simplifying the process of booking hostel rooms.
+- **Inventory Management System**: An optimized and user-friendly system inspired by **Amazon**, enabling better inventory handling.
 
-- ⚡ Fun fact **I AM FUNNY**
+### 📚 Learning & Exploring
+- **Design Patterns**: Focusing on coding challenges like **pattern generation** and **logical circuits**.
+- **Data Structures**: Working on C++ programs involving **linked lists** and improving data management systems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🛠 Technologies & Tools
+- Frontend: **React**, **HTML5**, **CSS3**
+- Backend: **Python**, **Node.js**
+- Programming Languages: **C++, Python, C**
+- Database: **MySQL**, **MongoDB**
+- Version Control: **Git**, **GitHub**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-create&show_icons=true&locale=en&layout=compact" alt="adarsh-create" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-create&show_icons=true&locale=en" alt="adarsh-create" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-create&" alt="adarsh-create" /></p>
